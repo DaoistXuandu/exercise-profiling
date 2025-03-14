@@ -30,4 +30,4 @@ B. all-student-name
 C. highest-gpa
 ![alt text](static/image_12.png)
 
-After completing the profiling and performance optimization process, we conducted another performance test using JMeter. The results showed a significant improvement: response time decreased from 850ms to 230ms (72.9% faster), throughput increased from 120 requests/sec to 430 requests/sec, and CPU usage dropped from 85% to 40%. These metrics confirm that our optimizations drastically enhanced the application's efficiency, making it significantly more performant and scalable.
+After completing the profiling and performance optimization process, we conducted another performance test using JMeter. The results showed a significant improvement: response time decreased for every all-student, all-student-name and highest-gpa and throughput increased for every all-student, all-student-name and highest-gpa. These metrics confirm that our optimizations drastically enhanced the application's efficiency, making it significantly more performant and scalable.
